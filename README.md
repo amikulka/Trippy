@@ -4,9 +4,22 @@
 
 Trippy is a travel-based social media application that creates an avenue for the community to find companions who share the common interest of traveling using Next.js, Node, and Socket.io. This project was created by a team of 7 using agile methodolgies.
 
+# Screenshots
 
-# Demo
-demo link
+![Screenshot 2023-01-23 at 1 08 25 PM](https://user-images.githubusercontent.com/47989035/214139619-18190f57-7cf9-4774-be50-b284dfdd3728.png)
+
+
+![Screenshot 2023-01-23 at 1 09 14 PM](https://user-images.githubusercontent.com/47989035/214139664-33f984a9-61d3-40de-9176-1fe380cc6c8b.png)
+
+
+![Screenshot 2023-01-23 at 1 05 27 PM](https://user-images.githubusercontent.com/47989035/214139713-fb52b411-b79a-41d5-b84e-c62cd8809520.png)
+
+
+![Screenshot 2023-01-23 at 1 06 03 PM](https://user-images.githubusercontent.com/47989035/214139725-0c58fe00-0e21-440c-b22b-c84c9eaa2ff1.png)
+
+
+![Screenshot 2023-01-23 at 1 06 46 PM](https://user-images.githubusercontent.com/47989035/214139775-1023784e-e1e4-42ff-b8dc-e72f4b2b7904.png)
+
 
 
 # Features
